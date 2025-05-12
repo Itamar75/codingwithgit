@@ -1,1 +1,2 @@
-print("Hekko World")
+print("Hello World")
+print("Bye")
